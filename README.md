@@ -3,7 +3,7 @@
 ## Overview
 
 A repository provides the project developed for the `Radar Imaging` course. The projects are the following:
-### [Multipath in automotive radar imaging](/Multipath%20in%20Automotive%20Radar%20Imaging/):
+### [Multipath in automotive radar imaging](/Multipath%20in%20Automotive%20Radar%20Imaging/)
 The objective of this homework is to understand the effect of multipath in automotive radar imaging. One of the main concerns of the automotive industry about the usage of radars on car is the effect of multipath. Multiple reflections of the electromagnetic wave can generate ghost targets in the focused image. These ghost targets may trigger dangerous maneuvers in
 advanced autonomous driving systems. In this homework you will learn how a radar system perceives the multipath and what are the risks associated with different antenna layout.
 
